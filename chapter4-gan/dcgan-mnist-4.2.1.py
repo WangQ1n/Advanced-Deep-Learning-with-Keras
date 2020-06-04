@@ -13,7 +13,7 @@ to improve its ability to generate fake images.
 "Unsupervised representation learning with deep convolutional
 generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015).
 '''
-
+#test
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
